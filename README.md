@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm William</h1>
+<h1 align="center">Hi 👋, I'm William Keri</h1>
 <h3 align="center">A passionate Full stack Developer, Competitive Programmer and ML Enthusiast. I love exploring new technologies and new challenges.</h3>
 
 - 🔭 I’m currently working on [CodeQuest](https://github.com/codevoid048/codequest)
 
 - 🌱 I’m currently learning **Next.js, Docker, FastAPI, Websockets**
 
-- 👨‍💻 All of my projects are available at [https://williams-portfolio.onrender.com/](https://williams-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://williams-portfolio-eta.vercel.app/](https://williams-portfolio-eta.vercel.app/)
 
 - 📫 How to reach me **williamkeri007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yumV2d8Kg48epw5UvO2C1yAAwao6qkDJ/view?usp=sharing](https://drive.google.com/file/d/1yumV2d8Kg48epw5UvO2C1yAAwao6qkDJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gp_CBdcDTsiDYrCanVDtHPbLa3wnJH51/view?usp=drive_link](https://drive.google.com/file/d/1gp_CBdcDTsiDYrCanVDtHPbLa3wnJH51/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
