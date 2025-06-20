@@ -1,4 +1,4 @@
-# 👋 Hi, I'm William Keri:
+# 👋 Hi, I'm William
 I'm a final year B.Tech student in Computer Science and Engineering, passionate about *Competitive Programming*, *Full-Stack Web Development*, and *Machine Learning*. I love solving algorithmic challenges, building scalable applications, and exploring AI-powered solutions.
 
 <li>I’m currently working on CodeQuest, a structured and DSA POTD platforrm for college students<br><li> I’m currently learning Next.js, Docker, FastAPI, Websockets<br><li> All of my projects are available at https://williams-portfolio-eta.vercel.app/<br> <li> Know about my experiences https://drive.google.com/file/d/1gp_CBdcDTsiDYrCanVDtHPbLa3wnJH51/view?usp=drive_link
