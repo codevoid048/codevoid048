@@ -1,7 +1,7 @@
 # 👋 Hi, I'm William
 I'm a final year B.Tech student in Computer Science and Engineering, passionate about *Competitive Programming*, *Full-Stack Web Development*, and *Machine Learning*. I love solving algorithmic challenges, building scalable applications, and exploring AI-powered solutions.
 
-<li>I’m currently working on CodeQuest, a structured and DSA POTD platforrm for college students<br><li> I’m currently learning Next.js, Docker, FastAPI, Websockets<br><li> All about me at https://williams-portfolio-eta.vercel.app/<br> <li> Know about my experiences https://drive.google.com/file/d/1ijOkiQJFo6WtYcJQsZIT9Bv6NEk9F4vh/view?usp=sharing
+<li>I’m currently working on CodeQuest, a structured and DSA POTD platforrm for college students<br><li> I’m currently learning Next.js, Docker, FastAPI, Websockets<br><li> All about me at codevoid.site/<br> <li> Know about my experiences https://drive.google.com/file/d/1ijOkiQJFo6WtYcJQsZIT9Bv6NEk9F4vh/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/code__void) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@code__void) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/code__void) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/code__void) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williamkeri007@gmail.com) 
