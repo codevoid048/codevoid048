@@ -1,16 +1,26 @@
 # 👋 Hi, I'm William
 I'm a final year B.Tech student in Computer Science and Engineering, passionate about *Competitive Programming*, *Full-Stack Web Development*, and *Machine Learning*. I love solving algorithmic challenges, building scalable applications, and exploring AI-powered solutions.
 
-<li>I’m currently working on CodeQuest, a structured and DSA POTD platforrm for college students<br><li> I’m currently learning Docker, FastAPI, Java and System Design <br><li> All about me at https://codevoid.site/<br>
+- I'm currently working on **CodeQuest**, a structured DSA POTD platform for college students
+- I'm currently learning **Cloud & DevOps**: AWS (EC2, EKS, VPC, Route53, API Gateway, Load Balancer), Terraform, Ansible, Kubernetes, Docker
+- **Backend & Distributed Systems**: Kafka, gRPC, GraphQL, Postgres Geo-Spatial Indexing, DB Sharding, Distributed Systems Architecture
+- **Monitoring & Observability**: Prometheus, Grafana
+- **Languages & Frameworks**: FastAPI, Java, System Design
+- All about me at [codevoid.site](https://codevoid.site/)
 
-## 🌐 Socials:
+## Competitive Programming
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/code__void)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/code__void)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/codevoid048)
+
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codevoid) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@code__void) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/code__void) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/code__void) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williamkeri007@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=codevoid048&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevoid048&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevoid048&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180"/>
 </p>
