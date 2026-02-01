@@ -1,11 +1,10 @@
 # 👋 Hi, I'm William
-I'm a final year B.Tech student in Computer Science and Engineering, passionate about *Competitive Programming*, *Full-Stack Web Development*, and *Machine Learning*. I love solving algorithmic challenges, building scalable applications, and exploring AI-powered solutions.
+Software Engineer and Competitive Programmer building scalable systems and solving algorithmic challenges.
 
-- I'm currently working on **CodeQuest**, a structured DSA POTD platform for college students
-- I'm currently learning **Cloud & DevOps**: AWS (EC2, EKS, VPC, Route53, API Gateway, Load Balancer), Terraform, Ansible, Kubernetes, Docker
-- **Backend & Distributed Systems**: Kafka, gRPC, GraphQL, Postgres Geo-Spatial Indexing, DB Sharding, Distributed Systems Architecture
-- **Monitoring & Observability**: Prometheus, Grafana
-- **Languages & Frameworks**: FastAPI, Java, System Design
+- I'm currently working on **D-JURY**, a competitive programming platform with real-time judging, anti-cheat enforcement, and multi-tenant contest management
+- I'm currently learning **Cloud & DevOps**: AWS, Terraform, Ansible, Kubernetes, Docker
+- **Backend & Distributed Systems**: Kafka, gRPC, GraphQL
+- **System Designing and DSA**
 - All about me at [codevoid.site](https://codevoid.site/)
 
 ## Competitive Programming
