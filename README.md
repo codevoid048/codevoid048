@@ -5,7 +5,7 @@ Software Engineer and Competitive Programmer building scalable systems and solvi
 - I'm currently learning **Cloud & DevOps**: AWS, Terraform, Ansible, Kubernetes, Docker
 - **Backend & Distributed Systems**: Kafka, gRPC, GraphQL
 - **System Designing and DSA**
-- All about me at [codevoid.site](https://codevoid.site/)
+- All about me at [codevoid.site](https://williamkeri.com/)
 
 ## Competitive Programming
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/code__void)
