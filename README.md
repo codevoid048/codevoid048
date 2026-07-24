@@ -1,8 +1,7 @@
 # 👋 Hi, I'm William
 Software Engineer and Competitive Programmer building scalable systems and solving algorithmic challenges.
 
-- I'm currently working on **D-JURY**, a competitive programming platform with real-time judging, anti-cheat enforcement, and multi-tenant contest management
-- I'm currently learning **Cloud & DevOps**: AWS, Terraform, Ansible, Kubernetes, Docker
+- I'm currently exploring **Cloud & DevOps**: AWS, Terraform, Ansible, Kubernetes, Docker
 - **Backend & Distributed Systems**: Kafka, gRPC, GraphQL
 - **System Designing and DSA**
 - All about me at [williamkeri.com](https://williamkeri.com/)
